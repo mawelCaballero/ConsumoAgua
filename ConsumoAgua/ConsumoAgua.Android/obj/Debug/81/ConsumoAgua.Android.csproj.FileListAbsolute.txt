@@ -1,0 +1,1 @@
+C:\WORKSPACE\Xamarin\ConsumoAgua\ConsumoAgua\ConsumoAgua\ConsumoAgua\bin\Debug\netstandard2.0\ConsumoAgua.dll
